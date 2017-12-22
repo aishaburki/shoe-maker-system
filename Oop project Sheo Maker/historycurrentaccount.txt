@@ -1,0 +1,90 @@
+----
+<<<<CURRENT ACCOUNT>>>>
+Company Name: 1
+Party Name: 1
+Total Cost: 1
+Qoality: 1
+Colour: 1
+Size: 1
+Payment Type: 1
+----
+<<<<CURRENT ACCOUNT>>>>
+Company Name: 1
+Party Name: 1
+Total Cost: 1
+Qoality: 1
+Colour: 1
+Size: 1
+Payment Type: 1
+----
+<<<<CURRENT ACCOUNT>>>>
+Company Name: 1
+Party Name: 1
+Total Cost: 1
+Qoality: 1
+Colour: 1
+Size: 1
+Payment Type: 1
+----
+<<<<CURRENT ACCOUNT>>>>
+Company Name: 12
+Party Name: 12
+Total Cost: 12
+Qoality: 12
+Colour: 12
+Size: 12
+Payment Type: 1
+----
+<<<<CURRENT ACCOUNT>>>>
+Company Name: 1
+Party Name: 1
+Total Cost: 1
+Qoality: 11
+Colour: 1
+Size: 1
+Payment Type: 1
+----
+<<<<CURRENT ACCOUNT>>>>
+Company Name: 1
+Party Name: 1
+Total Cost: 1
+Qoality: 1
+Colour: 1
+Size: 1
+Payment Type: 1
+----
+<<<<CURRENT ACCOUNT>>>>
+Company Name: 1
+Party Name: 1
+Total Cost: 1
+Qoality: 1
+Colour: 1
+Size: 1
+Payment Type: 1
+----
+<<<<CURRENT ACCOUNT>>>>
+Company Name: 1
+Party Name: 1
+Total Cost: 1
+Qoality: 1
+Colour: 1
+Size: 1
+Payment Type: 1
+----
+<<<<CURRENT ACCOUNT>>>>
+Company Name: 1
+Party Name: 1
+Total Cost: 1
+Qoality: 1
+Colour: 1
+Size: 1
+Payment Type: 1
+----
+<<<<CURRENT ACCOUNT>>>>
+Company Name: bata
+Party Name: chaudry
+Total Cost: 450000
+Qoality: A
+Colour: blue
+Size: 5
+Payment Type: cash

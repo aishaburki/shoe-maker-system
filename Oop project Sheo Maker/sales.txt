@@ -1,0 +1,8 @@
+SALES
+Explanation: 1
+Payment Type: 1
+Quality :1
+Colour :1
+Size :11
+Party: 1
+Price: 1

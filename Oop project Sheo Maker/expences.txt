@@ -1,0 +1,4 @@
+EXPENCES
+Explanation: 2
+Payment Type: 2
+Total :2

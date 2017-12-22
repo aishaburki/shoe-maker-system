@@ -1,0 +1,7 @@
+BANK
+Explanation: 2
+Deposit amount: 2
+Withdraw amount: 2
+Credit Card: 2
+MoneyOrder: 2
+Balance: 2

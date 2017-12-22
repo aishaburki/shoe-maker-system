@@ -1,0 +1,50 @@
+----
+<<<<EXPENCES>>>>
+Explanation: 1
+Payment Type: 1
+Total :1
+----
+<<<<EXPENCES>>>>
+Explanation: 1
+Payment Type: 1
+Total :1
+----
+<<<<EXPENCES>>>>
+Explanation: 1
+Payment Type: 1
+Total :1
+----
+<<<<EXPENCES>>>>
+Explanation: 222
+Payment Type: 22
+Total :22
+----
+<<<<EXPENCES>>>>
+Explanation: 2
+Payment Type: 2
+Total :2
+----
+<<<<EXPENCES>>>>
+Explanation: 2
+Payment Type: 2
+Total :2
+----
+<<<<EXPENCES>>>>
+Explanation: 2
+Payment Type: 2
+Total :2
+----
+<<<<EXPENCES>>>>
+Explanation: 2
+Payment Type: 2
+Total :2
+----
+<<<<EXPENCES>>>>
+Explanation: 2
+Payment Type: 2
+Total :2
+----
+<<<<EXPENCES>>>>
+Explanation: 2
+Payment Type: 2
+Total :2

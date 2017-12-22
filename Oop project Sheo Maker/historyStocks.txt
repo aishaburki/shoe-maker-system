@@ -1,0 +1,12 @@
+----
+<<<<STOCKS>>>>
+Explanation: 1
+Company name : 1
+IN: 1
+OUT: 1
+Returned : 1
+Flawed : 1
+Quality :1
+Colour :1
+Size :1
+Party: 1

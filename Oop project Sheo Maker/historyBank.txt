@@ -1,0 +1,32 @@
+----
+<<<<BANK>>>>
+Explanation: 1
+Deposit amount: 1
+Withdraw amount: 1
+Credit Card: 1
+MoneyOrder: 1
+Balance: 1
+----
+<<<<BANK>>>>
+Explanation: 2
+Deposit amount: 2
+Withdraw amount: 2
+Credit Card: y
+MoneyOrder: 324
+Balance: 23
+----
+<<<<BANK>>>>
+Explanation: 2
+Deposit amount: 2
+Withdraw amount: 2
+Credit Card: 2
+MoneyOrder: 2
+Balance: 2
+----
+<<<<BANK>>>>
+Explanation: 2
+Deposit amount: 2
+Withdraw amount: 2
+Credit Card: 2
+MoneyOrder: 2
+Balance: 2

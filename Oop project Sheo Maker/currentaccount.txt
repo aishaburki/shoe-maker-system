@@ -1,0 +1,8 @@
+<<<<CURRENT ACCOUNT>>>>
+Company Name: bata
+Party Name: chaudry
+Total Cost: 450000
+Qoality: A
+Colour: blue
+Size: 5
+Payment Type: cash
